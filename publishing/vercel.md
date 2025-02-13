@@ -11,7 +11,7 @@
 
 * slow deployment (2-3 minutes)
 * requires a github account (automatically used for each deployment)
-* installation can be intimidating for non-techies,
+* installation can be intimidating for non-technical people,
 * both asteroid and style are embedded (thus no auto-reload),
 * small updates require re-deployment.
 

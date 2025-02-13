@@ -18,4 +18,4 @@ This asteroid was the first to come to existence. Be well-come.
      Ojo      .       *
 ```
 
-[Asteroids?](about.md) ⊛ [Creating an asteroid](usage.md) ⊛ [Links](links.md)
+[Asteroids?](./asteroid.md) ⊛ [Creating an asteroid](usage.md) ⊛ [Publishing](publishing/) ⊛ [Links](links.md)
